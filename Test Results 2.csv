@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+/credit/,24,836,32,4193,1058.3652357396393,0.6666666666666666,4.9689440993788825,228.50187629399585,47089.666666666664
+TOTAL,24,836,32,4193,1058.3652357396393,0.6666666666666666,4.9689440993788825,228.50187629399585,47089.666666666664
